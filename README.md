@@ -1,4 +1,4 @@
-# Confluence Cloud REST API v2 for Microsoft Custom Connectors
+# Confluence Cloud REST API v2 for PowerApps Custom Connectors
 
 - [Introduction](#introduction)
 - [Features](#features)
